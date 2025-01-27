@@ -82,6 +82,6 @@ This project is open-source and available for personal and educational use.
 ---
 
 ## Author
-[Your Name]
+Syed Ubaid
 
 Feel free to contribute and improve the project!
