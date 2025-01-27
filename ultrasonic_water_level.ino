@@ -52,7 +52,7 @@ void loop() {
 
   // Calculate water level percentage
   level = (1 - distance / depth) * 100;
-  if (level < 0) level = 0; // Handle edge cases
+  if (level < 0) level = 0; 
   if (level > 100) level = 100;
 
   // Display water level on LCD
